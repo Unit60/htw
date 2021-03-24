@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 #global {
 	font-size: 12px;
 }
